@@ -1,0 +1,9 @@
+{
+	"name": "socket_io_video_chat2",
+	"version": "0.0.1",
+	"dependencies":{
+		"socket.io": "*",
+		"express":"*",
+		"log":"*"
+	}
+}
