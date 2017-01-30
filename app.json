@@ -1,0 +1,6 @@
+{
+	"name": "socket_io_video_chat2",
+	"description": "try to make video chat using socket.io",
+	"repository": "https://github.com/IgorStevkovski/delovnaPraksa_proekt.git",
+	"keywords": ["node","express"]
+}

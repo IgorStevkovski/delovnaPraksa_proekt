@@ -5,5 +5,7 @@
 		"socket.io": "*",
 		"express":"*",
 		"log":"*"
+	},"engines":{
+		"node": "0.10.35"
 	}
 }
